@@ -11,6 +11,6 @@
 
 ### Github Stats:
 
-<img width="500em" src="https://github-profile-trophy.vercel.app/?username=kevinkim910408&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> |  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinkim910408&show_icons=true&locale=en&layout=compact&theme=radical" alt="seongwon's Most used lang" />
+<img width="500em" src="https://github-profile-trophy.vercel.app/?username=kevinkim910408&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> |  <img  width="500em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinkim910408&show_icons=true&locale=en&layout=compact&theme=radical" alt="Junho Kim's Most used lang" />
 :-------------------------:|:-------------------------:
-<img  width="500em"   src="https://github-readme-streak-stats.herokuapp.com/?user=kevinkim910408&theme=radical" alt="Vikash2806 Streak" /> | <img  width="450em" align="center" alt="JunhoKim's Github stats"  src="https://github-readme-stats.vercel.app/api?username=kevinkim910408&show_icons=true&count_private=true&theme=radical" /> 
+<img  width="500em"   src="https://github-readme-streak-stats.herokuapp.com/?user=kevinkim910408&theme=radical" alt="Vikash2806 Streak" /> | <img  width="500em" align="center" alt="JunhoKim's Github stats"  src="https://github-readme-stats.vercel.app/api?username=kevinkim910408&show_icons=true&count_private=true&theme=radical" /> 
