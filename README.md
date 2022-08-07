@@ -1,7 +1,7 @@
 ### <p align="center">Hi! I'm Junho Kim</p>
 
 <p align="center"> 
-  <a href="https://github.com/Magiof"><img src="https://typing-text-svg.herokuapp.com?font=&color=1E8CBE&center=true&vCenter=true&lines=Junho+Kim+;%F0%9F%9A%80Fronnt-End+Developer;"></a>
+  <a href="https://github.com/kevinkim910408"><img src="https://typing-text-svg.herokuapp.com?font=&color=1E8CBE&center=true&vCenter=true&lines=Junho+Kim+;%F0%9F%9A%80Fronnt-End+Developer;"></a>
 
 <a href="#"><img width="450" align="right" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  /></a>
 ### Tech:
