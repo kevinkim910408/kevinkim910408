@@ -1,16 +1,1 @@
-### <p align="center">Hi! I'm Junho Kim</p>
 
-<p align="center"> 
-  <a href="https://github.com/kevinkim910408"><img src="https://typing-text-svg.herokuapp.com?font=&color=1E8CBE&center=true&vCenter=true&lines=Junho+Kim+;%F0%9F%9A%80Fronnt-End+Developer;"></a>
-
-<a href="#"><img width="450" align="right" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  /></a>
-### Tech:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=whitek"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-26A69A?style=for-the-badge&logo=Next.js&logoColor=000000"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/react query-161A3B?style=for-the-badge&logo=react query&logoColor=FF4154"/> <img src="https://img.shields.io/badge/styled components-FFB13B?style=for-the-badge&logo=styled components&logoColor=E0234E"/> <img src="https://img.shields.io/badge/Tailwind CSS-8E1C04?style=for-the-badge&logo=Tailwind CSS&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=C++&logoColor=00599C"/> <img src="https://img.shields.io/badge/Unreal Engine-EEEEEE?style=for-the-badge&logo=Unreal Engine&logoColor=0E1128"/> <img src="https://img.shields.io/badge/.NET-E77F26?style=for-the-badge&logo=.NET&logoColor=512BD4"/> <img src="https://img.shields.io/badge/Unity-EEEEEE?style=for-the-badge&logo=Unity&logoColor=000000"/> <img src="https://img.shields.io/badge/Dart-FF7751?style=for-the-badge&logo=Dart&logoColor=0175C2"/> <img src="https://img.shields.io/badge/Flutter-00D735?style=for-the-badge&logo=Flutter&logoColor=02569B"/> <img src="https://img.shields.io/badge/Android-005A2B?style=for-the-badge&logo=Android&logoColor=3DDC84"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Amazon S3-ED2B88?style=for-the-badge&logo=Amazon S3&logoColor=569A31"/>
-
-
-
-### Github Stats:
-
-<img width="500em" src="https://github-profile-trophy.vercel.app/?username=kevinkim910408&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> |  <img  width="500em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinkim910408&show_icons=true&locale=en&layout=compact&theme=radical" alt="Junho Kim's Most used lang" />
-:-------------------------:|:-------------------------:
-<img  width="500em"   src="https://github-readme-streak-stats.herokuapp.com/?user=kevinkim910408&theme=radical" alt="Vikash2806 Streak" /> | <img  width="500em" align="center" alt="JunhoKim's Github stats"  src="https://github-readme-stats.vercel.app/api?username=kevinkim910408&show_icons=true&count_private=true&theme=radical" /> 
